@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Who Wants To Be A Millionarie</string>
+    <string name="btnPlay">Play</string>
+    <string name="btnScores">Scores</string>
+    <string name="btnSettings">Settings</string>
+    <string name="btnCredits">Credits</string>
+    <string name="action_credits">Credits</string>
+    <string name="action_quit">Quit</string>
+    <string name="action_delete">Delete</string>
+    <string name="credits">Game developed by: \nIvan Martínez Company</string>
+    <string name="quit">You quited, you have won:</string>
+    <string name="coin">USD</string>
+    <string name="win">Congratulations you have won:</string>
+    <string name="wrong">Incorrect answer. You have won:</string>
+    <string name="audience">Audience have voted for option</string>
+    <string name="phone">Your friend suggests option</string>
+    <string name="btnaudience">Audience</string>
+    <string name="btnphone">Phone</string>
+    <string name="userTitle">Username</string>
+    <string name="userDialogTitle">Introduce your username</string>
+    <string name="helpsTitle">Helps</string>
+    <string name="helpsSummary">Amount of helps available for the player.</string>
+    <string name="helpsDialogTitle">Input the amount of helps</string>
+    <string name="userSummary">Username of the player</string>
+    <string name="prefsCategory">Preferences</string>
+    <string name="tabLocal">LOCAL</string>
+    <string name="tabFriends">FRIENDS</string>
+</resources>

@@ -1,0 +1,54 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AppThemeToolBar" parent="ThemeOverlay.AppCompat.Light">
+        <!-- Customize your theme here. -->
+        <item name="android:textColorPrimary">@color/toolbartextcolor</item>
+        <item name="android:textColorSecondary">@color/toolbartextcolor</item>
+        <item name="android:background">@color/toolbarprimary</item>
+    </style>
+
+    <style name="main_button">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:width">@dimen/main_button_width</item>
+        <item name="android:height">@dimen/main_button_height</item>
+        <item name="android:padding">@dimen/main_button_padding</item>
+        <item name="android:layout_margin">@dimen/main_button_margin</item>
+        <item name="android:drawablePadding">@dimen/button_drawable_padding</item>
+        <item name="android:background">@drawable/main_button_selector</item>
+        <item name="android:onClick">onClickMainMenu</item>
+    </style>
+
+    <style name="answers_button">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:width">@dimen/answer_button_width</item>
+        <item name="android:height">@dimen/answer_button_height</item>
+        <item name="android:padding">@dimen/answer_button_padding</item>
+        <item name="android:layout_margin">@dimen/answer_button_margin</item>
+        <item name="android:drawablePadding">@dimen/button_drawable_padding</item>
+        <item name="android:background">@drawable/answers_button_selector</item>
+        <item name="android:onClick">onClickAnswer</item>
+    </style>
+
+    <style name="help_button">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:width">@dimen/help_button_width</item>
+        <item name="android:height">@dimen/help_button_height</item>
+        <item name="android:padding">@dimen/help_button_padding</item>
+        <item name="android:layout_margin">@dimen/help_button_margin</item>
+        <item name="android:drawablePadding">@dimen/button_drawable_padding</item>
+        <item name="android:background">@drawable/help_button_selector</item>
+        <item name="android:onClick">onClickHelp</item>
+    </style>
+
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quien Quiere Ser Millonario</string>
+    <string name="action_credits">Creditos</string>
+    <string name="action_delete">Borrar</string>
+    <string name="action_quit">Abandonar</string>
+    <string name="btnCredits">Creditos</string>
+    <string name="btnPlay">Jugar</string>
+    <string name="btnScores">Puntuaciones</string>
+    <string name="btnSettings">Preferencias</string>
+    <string name="credits">Juego desarrollado por: \nIvan Martínez Company</string>
+    <string name="coin"> EUR</string>
+    <string name="quit">Has abandonado, ganas: </string>
+    <string name="audience">La audiencia ha votado la opción</string>
+    <string name="phone">Tu amigo ha sugerido la opción</string>
+    <string name="win">Enhorabuena, has ganado:</string>
+    <string name="wrong">Respuesta incorrecta. Has ganado:</string>
+    <string name="btnaudience">Audiencia</string>
+    <string name="btnphone">Llamada</string>
+    <string name="helpsDialogTitle">Introduce el número de ayudas</string>
+    <string name="helpsSummary">Número de ayudas de las que dispone el jugador.</string>
+    <string name="helpsTitle">Ayudas</string>
+    <string name="userDialogTitle">Introduce el usuario</string>
+    <string name="userTitle">Usuario</string>
+    <string name="userSummary">Nombre de usuario del jugador</string>
+    <string name="prefsCategory">Preferencias</string>
+    <string name="tabFriends">AMIGOS</string>
+    <string name="tabLocal">LOCAL</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<quizz>
+	<question text="¿Qué estado se conoce como 'Sunshine State'?" right="2" phone="2" number="1" fifty2="4" fifty1="1" audience="2" answer4="Arizona" answer3="Texas" answer2="Florida" answer1="Carolina del Norte"/>
+	<question text="¿Cuál de los siguientes estados no pertenece a los EEUU?" right="4" phone="4" number="2" fifty2="3" fifty1="2" audience="4" answer4="Manitoba" answer3="Wyoming" answer2="Washington" answer1="Nueva Hampshire"/>
+	<question text="¿Cuál es el tercer libro de la saga Pokémon?" right="3" phone="3" number="3" fifty2="4" fifty1="1" audience="2" answer4="¡Te elijo a tí!" answer3="El ataque del Pokémon Prehistórico" answer2="La isla del Pokémon Gigante" answer1="Charizard"/>
+	<question text="¿Quién fue forzado a firmar la Carta Magna?" right="1" phone="1" number="4" fifty2="3" fifty1="2" audience="3" answer4="Rey Jorge III" answer3="Rey Ricardo Corazón de León" answer2="Rey Enrique VIII" answer1="Rey Juan"/>
+	<question text="¿Qué barco se hundió en 1912 a pesar de que dijeron que nunca se hundiría?" right="4" phone="4" number="5" fifty2="2" fifty1="1" audience="4" answer4="Titanic" answer3="Reina Elizabeth" answer2="Royal Caribean" answer1="Monitor"/>
+	<question text="¿Quién fué el tercer James Bond en las peliculas de MGM? (Sin incluir 'Casino Royale')" right="1" phone="3" number="6" fifty2="3" fifty1="2" audience="3" answer4="Sean Connery" answer3="Timothy Dalton" answer2="Pierce Brosnan" answer1="Roger Moore"/>
+	<question text="¿Cuál es la ballena dentada más grande?" right="4" phone="2" number="7" fifty2="3" fifty1="2" audience="2" answer4="Cachalote" answer3="Ballena Asesina" answer2="Ballena Azul" answer1="Ballena Jorobada"/>
+	<question text="¿En qué año nació George Washington?" right="2" phone="2" number="8" fifty2="4" fifty1="1" audience="2" answer4="1776" answer3="1713" answer2="1732" answer1="1728"/>
+	<question text="¿Cuál de estas habitaciones se encuentra en la segunda planta de la Casa Blanca?" right="2" phone="2" number="9" fifty2="4" fifty1="3" audience="2" answer4="Habitación Este" answer3="Habitación de Cenas de Estado" answer2="Habitación China" answer1="Habitación Roja"/>
+	<question text="¿Qué Papa comenzó su reinado en 963?" right="2" phone="2" number="10" fifty2="4" fifty1="3" audience="1" answer4="Gregorio I" answer3="Gregorio VII" answer2="Leo VIII" answer1="Inocencio III"/>
+	<question text="¿Cuál es el segundo río más largo de Sudamérica?" right="1" phone="1" number="11" fifty2="3" fifty1="2" audience="1" answer4="Río Orinoco" answer3="Río Amazonas" answer2="Río Xingu" answer1="Río Parana"/>
+	<question text="¿Qué Ford remplazó al modelo T?" right="2" phone="4" number="12" fifty2="3" fifty1="1" audience="4" answer4="Mustang" answer3="Edsel" answer2="Modelo A" answer1="Modelo U"/>
+	<question text="¿En qué año se hizo la primera foto de la história?" right="4" phone="4" number="13" fifty2="3" fifty1="1" audience="4" answer4="1826" answer3="1912" answer2="1793" answer1="1860"/>
+	<question text="¿Dónde se celebraron los primeros Juegos Olímpicos de Invierno?" right="4" phone="4" number="14" fifty2="3" fifty1="2" audience="1" answer4="Chamonix, France" answer3="Oslo, Norway" answer2="Stockholm, Sweden" answer1="St. Moritz, Switzerland"/>
+	<question text="¿Cuál de estos no es el nombre de un tunel neoyorkino?" right="4" phone="4" number="15" fifty2="3" fifty1="1" audience="4" answer4="Manhattan" answer3="Queens Midtown" answer2="Lincoln" answer1="Brooklyn-Battery"/>
+ </quizz>

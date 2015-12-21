@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_vertical">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:padding="20dp"
+        android:gravity="center_vertical">
+
+        <TextView android:id="@+id/txtUserLocal"
+            android:text="username"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight=".33"/>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight=".33"
+            android:gravity="center_vertical">
+
+            <TextView android:id="@+id/txtLongitudeLocal"
+                android:text="-0.6456486"
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_weight=".5"
+                android:gravity="center_vertical"/>
+
+            <TextView android:id="@+id/txtLatitudeLocal"
+                android:text="39.4654678"
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_weight=".5"
+                android:gravity="center_vertical"/>
+
+        </LinearLayout>
+
+        <TextView android:id="@+id/txtScoresLocal"
+            android:text="1000000"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight=".33"/>
+
+    </LinearLayout>
+
+</LinearLayout>
